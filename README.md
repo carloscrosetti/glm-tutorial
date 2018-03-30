@@ -1,2 +1,3 @@
 # glm-tutorial
-Linear Regression Tutorial
+Linear Regression Tutorial from https://rstatisticsandresearch.weebly.com/logistic-regression-glm.html
+
